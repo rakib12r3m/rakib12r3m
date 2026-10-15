@@ -1,0 +1,56 @@
+
+name: Update contribution chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-chart.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-assets
+  cancel-in-progress: false
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution charts
+        uses: dturovskiy/deus-commit-chart@v1.5.3
+        with:
+          source: github
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          default-days: "30"
+          ranges: "30,90,365"
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Publish charts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git clone --depth 1 --branch main \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" publish
+
+          cd publish
+          git checkout --orphan activity-assets
+          git rm -rf . || true
+          cp -r ../activity-dist/. .
+          git add -A
+          git commit -m "Update contribution charts"
+          git push origin HEAD:activity-assets --force
