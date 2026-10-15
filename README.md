@@ -99,18 +99,17 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 
 
-## 📊 GitHub Contribution Graph
 
 ## 📊 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg)
 
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-30d.svg)
+
 
 **Activity Period:** 30 Days
 
-[30 Days](https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-30d.svg) | [90 Days](https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-90d.svg) | [365 Days](https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-365d.svg)
+[30 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg) | [90 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-90d.svg) | [365 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-365d.svg)
 
 
 
