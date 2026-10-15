@@ -102,14 +102,41 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 ## 📊 GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg)
+---
 
+## 📊 GitHub Contribution Activity
 
+<p align="center">
+  <b>My Coding Journey in Visuals</b>
+  <br />
+  <sub>Consistency • Learning • Building • Growing</sub>
+</p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg"
+    alt="GitHub Contribution Activity — Last 30 Days"
+    width="100%"
+  />
+</p>
 
-**Activity Period:** 30 Days
+<p align="center">
+  <a href="https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg">
+    <img src="https://img.shields.io/badge/30%20Days-Active-2ea44f?style=for-the-badge" alt="Last 30 Days" />
+  </a>
+  <a href="https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-90d.svg">
+    <img src="https://img.shields.io/badge/90%20Days-Activity-0969da?style=for-the-badge" alt="Last 90 Days" />
+  </a>
+  <a href="https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-365d.svg">
+    <img src="https://img.shields.io/badge/365%20Days-Overview-8250df?style=for-the-badge" alt="Last 365 Days" />
+  </a>
+</p>
 
-[30 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-30d.svg) | [90 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-90d.svg) | [365 Days](https://raw.githubusercontent.com/rakib12r3m/rakib12r3m/activity-assets/activity-365d.svg)
+<p align="center">
+  <sub>Every contribution is a step toward becoming a better developer. 🚀</sub>
+</p>
+
+---
 
 
 
