@@ -148,11 +148,11 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 <p align="center">
 
-<a href="https://github.com/rakib12r3">
+<a href="https://github.com/rakib12r3m">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rakib12r3m/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
