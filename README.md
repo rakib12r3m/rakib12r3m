@@ -98,23 +98,23 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 ## 📈 Contribution Graph
 
 
+
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-30d.svg"
-    alt="GitHub Contribution Graph - Last 30 Days"
+    alt="GitHub Contribution Graph"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-30d.svg">30 Days</a>
-  ·
-  <a href="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-90d.svg">90 Days</a>
-  ·
+  <a href="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-30d.svg">30 Days</a> |
+  <a href="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-90d.svg">90 Days</a> |
   <a href="https://raw.githubusercontent.com/rakib12r3/rakib12r3/activity-assets/activity-365d.svg">365 Days</a>
 </p>
+
 
 
 ---
