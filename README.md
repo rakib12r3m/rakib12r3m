@@ -6,10 +6,10 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h1 align="center">Hi, I'm Rakib</h1>
 
 <h3 align="center">
-  Frontend Developer | JavaScript & TypeScript | React & Next.js
+ Full Stack Developer | React, Next.js, TypeScript & Node.js | Building Scalable SaaS & High-Performance Web Applications
 </h3>
 
 <p align="center">
